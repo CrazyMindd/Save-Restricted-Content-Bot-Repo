@@ -7,6 +7,13 @@ Contact: [Telegram](https://t.me/dev_gagan)
 # Try Live Bot (now offline)
 Bot link -https://t.me/advance_content_saver_bot
 
+## Deploy To Heroku
+
+<a href="https://heroku.com/deploy?template=https://github.com/Rahulsinghcreator/Save-Restricted-Content-Bot-Repo">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+<h2 align="center">
+
 ### A stable telegram bot to get restricted messages with custom thumbnail support , made by [TEAM SPY](https://t.me/dev_gagan) This bot can run in channels directly (in this case custom thumbnail not supported)
 
 - works for both public and private chats
